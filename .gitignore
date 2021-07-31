@@ -1,3 +1,4 @@
 Log/
 *.a
 !lib.a
+Build/
